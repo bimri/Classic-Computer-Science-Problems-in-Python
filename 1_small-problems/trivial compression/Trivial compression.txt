@@ -1,0 +1,16 @@
+Compression 
+    is the act of taking data and
+    encoding it (changing its form) in such a way that it takes up less space. 
+
+Decompression
+    is reversing the process, returning the data to its original form.
+
+
+If it is more storage-efficient to compress data, then why is all data not compressed?
+There is a tradeoff between time and space. It takes time to compress a piece
+of data and to decompress it back into its original form. Therefore, data compression
+only makes sense in situations where small size is prioritized over fast execution.
+
+
+The easiest data compression wins come about when you realize that data storage
+types use more bits than are strictly required for their contents.
