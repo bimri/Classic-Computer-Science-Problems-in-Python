@@ -1,0 +1,8 @@
+A one-time pad is a way of encrypting a piece of data by combining it with meaningless
+random dummy data in such a way that the original cannot be reconstituted without
+access to both the product and the dummy data. 
+
+In essence, this leaves the encrypter
+with a key pair. One key is the product, and the other is the random dummy data. One
+key on its own is useless; only the combination of both keys can unlock the original
+data. When performed correctly, a one-time pad is a form of unbreakable encryption.
