@@ -1,0 +1,4 @@
+The mathematically significant number pi (π or 3.14159…) can be derived using
+many formulas. One of the simplest is the Leibniz formula. It posits that the convergence
+of the following infinite series is equal to pi:
+π = 4/1 - 4/3 + 4/5 - 4/7 + 4/9 - 4/11...
